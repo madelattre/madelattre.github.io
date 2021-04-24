@@ -1,3 +1,5 @@
+I am a research scientist in statistics at INRAE.
+
 ## Contact
 
 **Mail:** maud.delattre [AT] inrae.fr
