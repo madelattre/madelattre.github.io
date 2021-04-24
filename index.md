@@ -14,6 +14,7 @@ Domaine de Vilvert
 
 ### Publications
 
+- Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science*
 - Delattre, M. and Poursat, M.A. (2020) An iterative algorithm for joint covariate and random effect selection in mixed effects models. *The International Journal of Biostatistics*
 - Delattre, M., Genon-Catalot, V. and Larédo, C. (2018) Approximate maximum likelihood estimation for stochastic differential equations with random effects in the drift and the diffusion. *Metrika* 81 (8) p. 953-983 
 - Delattre, M., Genon-Catalot, V. and Larédo, C. (2017) Parametric inference for discrete observations of diffusion processes with mixed effects. *Stochastic Processes and their Applications* 128(6) p. 1929-1957
