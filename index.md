@@ -1,6 +1,6 @@
 ## Contact
 
-**Mail:** maud.delattre AT inrae.fr
+**Mail:** maud.delattre [AT] inrae.fr
 
 **Address:**
 
