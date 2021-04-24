@@ -47,3 +47,7 @@ Domaine de Vilvert
 - HDR: *Etudes de modèles markoviens à variables latentes avec applications à la pharmacologie et à l’épidémiologie.* (2020)
 - Thesis: *Inférence statistique dans les modèles mixtes à dynamique Markovienne.* (2012)
 
+### Softwares
+
+- **MsdeParEst** (**R** package dedicated to parametric estimation in stochastic differential equations with mixed effects)
+
