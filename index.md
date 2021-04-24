@@ -12,6 +12,11 @@ Domaine de Vilvert
 
 ## Research
 
+### Preprints
+
+- Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. (hal-02475936)
+- Delattre, M. and Kuhn, E. Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function. (hal-02285712) 
+
 ### Publications
 
 - Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science*
@@ -35,12 +40,8 @@ Domaine de Vilvert
 - Delattre, M. and Lavielle, M. (2012) Maximum Likelihood Estimation in Discrete Mixed Hidden Markov Models using the SAEM algorithm. *Computational Statistics & Data Analysis* 56(6) p. 2073-2085 
 - Delattre, M. (2010) Inference in Mixed Hidden Markov Models and Applications to Medical Studies. *Journal de la Société Française de Statistique* 151(1) p. 90-105 
 
-### Preprints
-
-- Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. (hal-02475936)
-- Delattre, M. and Kuhn, E. Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function. (hal-02285712) 
-
 ### Thesis and "Habilitation" (HDR) manuscripts
 
-- Thesis: *Inférence statistique dans les modèles mixtes à dynamique Markovienne* (2012)
-- HDR: (2020)
+- HDR: *Etudes de modèles markoviens à variables latentes avec applications à la pharmacologie et à l’épidémiologie.* (2020)
+- Thesis: *Inférence statistique dans les modèles mixtes à dynamique Markovienne.* (2012)
+
