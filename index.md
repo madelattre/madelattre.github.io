@@ -44,7 +44,7 @@ I am currently a member of the ANR Project [Stat4Plant](https://stat4plant.mathn
 - Delattre, M. and Lavielle, M. (2012) Maximum Likelihood Estimation in Discrete Mixed Hidden Markov Models using the SAEM algorithm. *Computational Statistics & Data Analysis* 56(6) p. 2073-2085 
 - Delattre, M. (2010) Inference in Mixed Hidden Markov Models and Applications to Medical Studies. *Journal de la Société Française de Statistique* 151(1) p. 90-105 
 
-### Thesis and "Habilitation" (HDR) manuscripts
+### Thesis and "Habilitation" (HDR) 
 
 - HDR: *Etudes de modèles markoviens à variables latentes avec applications à la pharmacologie et à l’épidémiologie.* (2020)
 - Thesis: *Inférence statistique dans les modèles mixtes à dynamique Markovienne.* (2012)
