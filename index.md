@@ -39,3 +39,8 @@ Domaine de Vilvert
 
 - Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. (hal-02475936)
 - Delattre, M. and Kuhn, E. Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function. (hal-02285712) 
+
+### Thesis and "Habilitation" (HDR) manuscripts
+
+- Thesis: *Inférence statistique dans les modèles mixtes à dynamique Markovienne* (2012)
+- HDR: (2020)
