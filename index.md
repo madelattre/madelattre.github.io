@@ -14,6 +14,8 @@ Domaine de Vilvert
 
 ## Research
 
+I am currently a member of the ANR Project [Stat4Plant](https://stat4plant.mathnum.inrae.fr/).
+
 ### Preprints
 
 - Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. (hal-02475936)
