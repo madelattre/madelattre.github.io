@@ -36,3 +36,6 @@ Domaine de Vilvert
 - Delattre, M. (2010) Inference in Mixed Hidden Markov Models and Applications to Medical Studies. *Journal de la Société Française de Statistique* 151(1) p. 90-105 
 
 ### Preprints
+
+- Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. (hal-02475936)
+- Delattre, M. and Kuhn, E. Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function. (hal-02285712) 
