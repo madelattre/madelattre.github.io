@@ -1,4 +1,4 @@
-I am a research scientist in statistics at INRAE.
+
 
 ## Contact
 
