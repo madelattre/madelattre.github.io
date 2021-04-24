@@ -1,4 +1,4 @@
-
+I am a research scientist in statistics at INRAE. I work on computational and theoretical statistics in Markovian and latent variable models. My research is motivated by applications in life sciences (pharmacology, epidemiology, plant sciences). 
 
 ## Contact
 
