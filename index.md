@@ -14,7 +14,7 @@ Domaine de Vilvert
 
 ## Research
 
-I am currently a member of the ANR Project [Stat4Plant](https://stat4plant.mathnum.inrae.fr/).
+I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4plant.mathnum.inrae.fr/).
 
 ### Preprints
 
@@ -52,5 +52,5 @@ I am currently a member of the ANR Project [Stat4Plant](https://stat4plant.mathn
 
 ### Softwares
 
-- [**MsdeParEst**](https://CRAN.R-project.org/package=MsdeParEst) (**R** package dedicated to parametric estimation in stochastic differential equations with mixed effects)
+- **MsdeParEst** [(Link)](https://CRAN.R-project.org/package=MsdeParEst) (**R** package dedicated to parametric estimation in stochastic differential equations with mixed effects)
 
