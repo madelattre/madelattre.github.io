@@ -52,5 +52,5 @@ I am currently a member of the ANR Project [Stat4Plant](https://stat4plant.mathn
 
 ### Softwares
 
-- **MsdeParEst** (**R** package dedicated to parametric estimation in stochastic differential equations with mixed effects)
+- [**MsdeParEst**](https://CRAN.R-project.org/package=MsdeParEst) (**R** package dedicated to parametric estimation in stochastic differential equations with mixed effects)
 
