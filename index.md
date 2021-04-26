@@ -24,7 +24,7 @@ I am currently a member of the ANR Project [Stat4Plant](https://stat4plant.mathn
 ### Publications
 
 - Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science*
-- Delattre, M. and Poursat, M.A. (2020) An iterative algorithm for joint covariate and random effect selection in mixed effects models. *The International Journal of Biostatistics*
+- Delattre, M. and Poursat, M.A. (2020) An iterative algorithm for joint covariate and random effect selection in mixed effects models. *The International Journal of Biostatistics* 16(2), 20190082
 - Tharrey, M., Mariotti, F., Mashchak, A., Barbillon, P., Delattre, M. and Fraser, G. E. (2020) Patterns of amino acids intake are strongly associated with cardiovascular mortality, independently of the sources of protein. *International Journal of epidemiology* 49(1) p. 312-321 
 - Goulnik, J., Plantureux, S., Théry, M., Baude, M., Delattre, M., Van Reeth, C., Villerd, J. and Michelot-Antalik, A. (2020) Floral trait functional diversity is related to soil characteristics and positively influences pollination function in semi-natural grasslands. *Agriculture, Ecosystems & Environment* 301, 10733
 - Taghipoor, M., Delattre, M. and Giger-Reverdin, S. (2020) A novel modelling approach to quantify the response of dairy goats to a high-concentrate diet. *Scientific Reports* 10, 20376 
