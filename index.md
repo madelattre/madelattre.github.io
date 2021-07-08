@@ -18,12 +18,12 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ### Preprints
 
-- Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. (hal-02475936)
 - Delattre, M. and Kuhn, E. Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function. (hal-02285712) 
 
 ### Publications
 
-- Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science*
+- Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. *Computational Statistics & Data Analysis* (accepted)
+- Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science* 4(1) p. 543-575
 - Delattre, M. and Poursat, M.A. (2020) An iterative algorithm for joint covariate and random effect selection in mixed effects models. *The International Journal of Biostatistics* 16(2), 20190082
 - Tharrey, M., Mariotti, F., Mashchak, A., Barbillon, P., Delattre, M. and Fraser, G. E. (2020) Patterns of amino acids intake are strongly associated with cardiovascular mortality, independently of the sources of protein. *International Journal of epidemiology* 49(1) p. 312-321 
 - Goulnik, J., Plantureux, S., Théry, M., Baude, M., Delattre, M., Van Reeth, C., Villerd, J. and Michelot-Antalik, A. (2020) Floral trait functional diversity is related to soil characteristics and positively influences pollination function in semi-natural grasslands. *Agriculture, Ecosystems & Environment* 301, 10733
