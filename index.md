@@ -19,6 +19,7 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 ### Preprints
 
 - Delattre, M. and Kuhn, E. Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function. (hal-02285712) 
+- Narci, R., Delattre, M., Larédo, C. and Vergu, E. Inference in Gaussian state-space models with mixed effects for multiple epidemic dynamics. (hal-03347365)
 
 ### Publications
 
