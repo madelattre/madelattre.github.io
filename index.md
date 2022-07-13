@@ -24,7 +24,7 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ### Publications
 
-- Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. *Computational Statistics & Data Analysis* (accepted)
+- Narci, R., Delattre, M., Larédo C. and Vergu, E. Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. *Computational Statistics & Data Analysis* 164, 107319
 - Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science* 4(1) p. 543-575
 - Delattre, M. and Poursat, M.A. (2020) An iterative algorithm for joint covariate and random effect selection in mixed effects models. *The International Journal of Biostatistics* 16(2), 20190082
 - Tharrey, M., Mariotti, F., Mashchak, A., Barbillon, P., Delattre, M. and Fraser, G. E. (2020) Patterns of amino acids intake are strongly associated with cardiovascular mortality, independently of the sources of protein. *International Journal of epidemiology* 49(1) p. 312-321 
