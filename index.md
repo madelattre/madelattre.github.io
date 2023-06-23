@@ -25,7 +25,7 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ### Publications
 
-- Baey, C., Delattre, M., Kuhn, E., Leger, J.B. and Lemler, S. (2023), Efficient preconditioned stochastic gradient descent for estimation in latent variable models. * Accepted at ICML 2023*.
+- Baey, C., Delattre, M., Kuhn, E., Leger, J.B. and Lemler, S. (2023), Efficient preconditioned stochastic gradient descent for estimation in latent variable models. *Accepted at ICML 2023*.
 - Narci, R., Delattre, M., Larédo, C. and Vergu, E. (2022) Inference in Gaussian state-space models with mixed effects for multiple epidemic dynamics. *Journal of Mathematical Biology* 85(40)
 - Narci, R., Delattre, M., Larédo C. and Vergu, E. (2021) Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. *Computational Statistics & Data Analysis* 164, 107319
 - Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science* 4(1) p. 543-575
