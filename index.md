@@ -63,4 +63,4 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 2023 : Introduction to statistics and Data Analysis - MEC519S (Biomedical Engineering, Master) 
 	
-	- TP1: [instructions]({{site.baseurl}}/docs/TP1_StatDesc.pdf), [data]({{site.baseurl}}/docs/Data_indo.csv) 
+- TP1: [instructions]({{site.baseurl}}/docs/TP1_StatDesc.pdf), [data]({{site.baseurl}}/docs/Data_indo.csv) 
