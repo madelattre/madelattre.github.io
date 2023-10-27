@@ -14,7 +14,7 @@ Domaine de Vilvert
 
 ## News
 
-**Master 2 internship proposal** : [[French description]]({{site.baseurl}}/docs/SujetM2.pdf) [[English description]]({{site.baseurl}}/docs/SujetM2_english.pdf) 
+**Master 2 internship proposal** : [[French description]]({{site.baseurl}}/docs/SujetM2.pdf) [[English description]]({{site.baseurl}}/docs/StageM2_english.pdf) 
 
 ## Research
 
