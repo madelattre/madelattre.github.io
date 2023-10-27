@@ -12,6 +12,10 @@ Domaine de Vilvert
 
 78352 Jouy-en-Josas Cedex - FRANCE
 
+## News
+
+**Master 2 internship proposal** : [[French description]]({{site.baseurl}}/docs/SujetM2.pdf) [[English description]]({{site.baseurl}}/docs/SujetM2_english.pdf) 
+
 ## Research
 
 I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4plant.mathnum.inrae.fr/).
