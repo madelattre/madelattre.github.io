@@ -73,4 +73,6 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 - [TP2]({{site.baseurl}}/docs/TP2_stat_inf.pdf)
 
+- [TP3]({{site.baseurl}}/docs/TP_PCA.pdf), [data]({{site.baseurl}}/docs/dataR2.csv) 
+
 - [Evaluation]({{site.baseurl}}/docs/Evaluation.pdf), [data1]({{site.baseurl}}/docs/Nhanes1.csv), [data2]({{site.baseurl}}/docs/Nhanes2.csv) 
