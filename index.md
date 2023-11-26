@@ -24,14 +24,15 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ### Preprints
 
-- Delattre, M. and Kuhn, E. Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function. (hal-02285712) 
-- Delattre, M., Kon Kam King, G., Naveau, M. and Sansonnet, L. Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm. (hal-03685060)
 - Delattre, M., Toda Y., Tressou, J. and Iwata, H. Modeling soybean growth: a mixed model approach. [(Link)](https://biorxiv.org/cgi/content/short/2023.06.13.544713v1)
 
 
 ### Publications
 
-- Baey, C., Delattre, M., Kuhn, E., Leger, J.B. and Lemler, S. (2023), Efficient preconditioned stochastic gradient descent for estimation in latent variable models. *Accepted at ICML 2023*.
+
+- Naveau, M., Kon Kam King, G., Rincent, R., Sansonnet, L. and Delattre, M. (2023) Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm. *Accepted in Statistics and Computing*.
+- Delattre, M., and Kuhn, E. (2023), Computing an Empirical Fisher Information Matrix Estimate in Latent Variable Models Through Stochastic Approximation. *Compute* [(Link)](https://doi.org/10.57750/r5gx-jk62).
+- Baey, C., Delattre, M., Kuhn, E., Leger, J.B. and Lemler, S. (2023), Efficient preconditioned stochastic gradient descent for estimation in latent variable models. *International Conference of Machine Learning (ICML)*.
 - Narci, R., Delattre, M., Larédo, C. and Vergu, E. (2022) Inference in Gaussian state-space models with mixed effects for multiple epidemic dynamics. *Journal of Mathematical Biology* 85(40)
 - Narci, R., Delattre, M., Larédo C. and Vergu, E. (2021) Inference for partially observed epidemic dynamics guided by Kalman filtering techniques. *Computational Statistics & Data Analysis* 164, 107319
 - Delattre, M. (2021) A review on asymptotic inference in stochastic differential equations with mixed-effects. *Japanese Journal of Statistics and Data Science* 4(1) p. 543-575
