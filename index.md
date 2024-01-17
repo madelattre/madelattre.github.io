@@ -24,8 +24,7 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ### Publications
 
-
-- Naveau, M., Kon Kam King, G., Rincent, R., Sansonnet, L. and Delattre, M. (2023) Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm. *Accepted in Statistics and Computing*.
+- Naveau, M., Kon Kam King, G., Rincent, R., Sansonnet, L. and Delattre, M. (2024) Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm. *Statistics and Computing* 34, 53.
 - Delattre, M., and Kuhn, E. (2023), Computing an Empirical Fisher Information Matrix Estimate in Latent Variable Models Through Stochastic Approximation. *Computo* [(Link)](https://doi.org/10.57750/r5gx-jk62).
 - Baey, C., Delattre, M., Kuhn, E., Leger, J.B. and Lemler, S. (2023), Efficient preconditioned stochastic gradient descent for estimation in latent variable models. *International Conference of Machine Learning (ICML)*.
 - Narci, R., Delattre, M., Larédo, C. and Vergu, E. (2022) Inference in Gaussian state-space models with mixed effects for multiple epidemic dynamics. *Journal of Mathematical Biology* 85(40)
