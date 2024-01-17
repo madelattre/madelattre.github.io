@@ -12,11 +12,6 @@ Domaine de Vilvert
 
 78352 Jouy-en-Josas Cedex - FRANCE
 
-## News
-
-**Master 2 internship proposals** : 
-- Proposal 1: [[French description]]({{site.baseurl}}/docs/SujetM2.pdf) [[English description]]({{site.baseurl}}/docs/StageM2_english.pdf) 
-- Proposal 2: [[Description]]({{site.baseurl}}/docs/stage_modele_salmonelle_v2.pdf)
 
 ## Research
 
