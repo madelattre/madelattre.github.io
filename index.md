@@ -19,11 +19,11 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ### Preprints
 
-- Delattre, M., Toda Y., Tressou, J. and Iwata, H. Modeling soybean growth: a mixed model approach. [(Link)](https://biorxiv.org/cgi/content/short/2023.06.13.544713v1)
-
+- Naveau, M., Delattre, M., and Sansonnet, L. (2024). Posterior contraction rates in a sparse non-linear mixed-effects model. [(Link)](https://arxiv.org/abs/2405.01206).
 
 ### Publications
 
+- Delattre, M., Toda Y., Tressou, J. and Iwata, H. (2024) Modeling soybean growth: a mixed model approach. *PLOS Computational Biology* 20(7), e1011258 [(Link)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011258).
 - Naveau, M., Kon Kam King, G., Rincent, R., Sansonnet, L. and Delattre, M. (2024) Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm. *Statistics and Computing* 34, 53.
 - Delattre, M., and Kuhn, E. (2023), Computing an Empirical Fisher Information Matrix Estimate in Latent Variable Models Through Stochastic Approximation. *Computo* [(Link)](https://doi.org/10.57750/r5gx-jk62).
 - Baey, C., Delattre, M., Kuhn, E., Leger, J.B. and Lemler, S. (2023), Efficient preconditioned stochastic gradient descent for estimation in latent variable models. *International Conference of Machine Learning (ICML)*.
