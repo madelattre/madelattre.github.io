@@ -62,14 +62,4 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ## Teaching
 
-2023 : Introduction to statistics and Data Analysis - MEC519S (Biomedical Engineering, Master) 
-
-- [Lecture slides](https://madelattre.github.io/Intro-to-stat/)
-	
-- [TP1]({{site.baseurl}}/docs/TP1_StatDesc.pdf), [data]({{site.baseurl}}/docs/Data_indo.csv) 
-
-- [TP2]({{site.baseurl}}/docs/TP2_stat_inf.pdf)
-
-- [TP3]({{site.baseurl}}/docs/TP_PCA.pdf), [data]({{site.baseurl}}/docs/dataR2.csv) 
-
-- [Evaluation]({{site.baseurl}}/docs/Evaluation.pdf), [data1]({{site.baseurl}}/docs/Nhanes1.csv), [data2]({{site.baseurl}}/docs/Nhanes2.csv) 
+2023 - ... : Introduction to statistics and Data Analysis - Institut Polytechnique de Paris ("Biomedical Engineering", M1) 
