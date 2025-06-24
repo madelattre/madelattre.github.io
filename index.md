@@ -2,7 +2,7 @@ I am a research scientist in statistics at INRAE. I work on computational and th
 
 ## News 
 
-June 2025: I am offering a 2-month contract to optimise R code and develop a package, see ({{site.baseurl}}/docs/Profil_CDD.pdf).
+June 2025: I am offering a 2-month contract to optimise R code and develop a package, see [attached file]({{site.baseurl}}/docs/Profil_CDD.pdf).
 
 ## Contact
 
