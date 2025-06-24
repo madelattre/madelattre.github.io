@@ -1,5 +1,9 @@
 I am a research scientist in statistics at INRAE. I work on computational and theoretical statistics in Markovian and latent variable models. My research is motivated by applications in life sciences (pharmacology, epidemiology, plant sciences). 
 
+## News 
+
+June 2025: I am offering a 2-month contract to optimise R code and develop a package, see ({{site.baseurl}}/docs/Profil_CDD.pdf).
+
 ## Contact
 
 **Mail:** maud.delattre [AT] inrae.fr
