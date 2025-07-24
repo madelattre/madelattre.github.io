@@ -24,6 +24,7 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 ### Preprints
 
 - Naveau, M., Delattre, M., and Sansonnet, L. (2024). Posterior contraction rates in a sparse non-linear mixed-effects model. [(Link)](https://arxiv.org/abs/2405.01206).
+- Baey, C., Billiard, S., and Delattre, M. (2025). Disentangling the sources of variation in functional responses: between-individuals variability, measurements errors and inherent stochasticity of the prey-predator interaction process. [(Link)](https://www.biorxiv.org/content/10.1101/2025.07.09.663660v1). 
 
 ### Publications
 
