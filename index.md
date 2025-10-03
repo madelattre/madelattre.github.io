@@ -2,7 +2,7 @@ I am a research scientist in statistics at INRAE. I work on computational and th
 
 ## News 
 
-June 2025: I am offering a 2-month contract to optimise R code and develop a package, see [attached file]({{site.baseurl}}/docs/Profil_CDD.pdf).
+2026 : I am offering a Master’s thesis internship (M2 level)
 
 ## Contact
 
@@ -23,12 +23,12 @@ I am currently a member of the ANR Project **Stat4Plant** [(Link)](https://stat4
 
 ### Preprints
 
-- Naveau, M., Delattre, M., and Sansonnet, L. (2024). Posterior contraction rates in a sparse non-linear mixed-effects model. [(Link)](https://arxiv.org/abs/2405.01206).
 - Baey, C., Billiard, S., and Delattre, M. (2025). Disentangling the sources of variation in functional responses: between-individuals variability, measurements errors and inherent stochasticity of the prey-predator interaction process. [(Link)](https://www.biorxiv.org/content/10.1101/2025.07.09.663660v1).
 - Delattre, M., and Masuda, H. (2025). Quasi-likelihood inference for SDE with mixed-effects observed at high frequency. [(Link)](https://arxiv.org/abs/2508.17910).
 
 ### Publications
 
+- Naveau, M., Delattre, M., and Sansonnet, L. (2025). Posterior contraction rates in a sparse non-linear mixed-effects model. *Electronic Journal of Statistics* 19(2): 4725-4757.
 - Delattre, M., Toda Y., Tressou, J. and Iwata, H. (2024) Modeling soybean growth: a mixed model approach. *PLOS Computational Biology* 20(7), e1011258 [(Link)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011258).
 - Naveau, M., Kon Kam King, G., Rincent, R., Sansonnet, L. and Delattre, M. (2024) Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm. *Statistics and Computing* 34, 53.
 - Delattre, M., and Kuhn, E. (2023), Computing an Empirical Fisher Information Matrix Estimate in Latent Variable Models Through Stochastic Approximation. *Computo* [(Link)](https://doi.org/10.57750/r5gx-jk62).
