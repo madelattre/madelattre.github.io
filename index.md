@@ -2,7 +2,7 @@ I am a research scientist in statistics at INRAE. I work on computational and th
 
 ## News 
 
-2026 : I am offering a Master’s thesis internship (M2 level) [(PDF)](https://madelattre.github.io/docs/StageM2.pdf)
+2026 : I am offering a Master’s thesis internship (M2 level) [(PDF)](https://madelattre.github.io/docs/SujetM2.pdf)
 
 ## Contact
 
